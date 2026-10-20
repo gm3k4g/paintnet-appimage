@@ -1,4 +1,4 @@
-# Paint.NET 5.2 for Linux — AppImage
+# Paint.NET 5.2 AppImage
 
 Appimage of **Paint.NET 5.2** running
 under Wine, with a fix for the black patches problem that affects Paint.NET's
